@@ -1,0 +1,5 @@
+Python example: using non-blocking pipes, select and printing with ansi escape codes
+
+Usage: python test.py option
+where option: 1 - non - blocking pipes
+              2 - select
